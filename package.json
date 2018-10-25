@@ -1,0 +1,35 @@
+{
+  "name": "wucpeng-tools",
+  "version": "1.0.11",
+  "description": "time date holiday lunar",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wucpeng/wucpeng-tools.git"
+  },
+  "keywords": [
+    "lunar",
+    "date",
+    "time",
+    "holiday",
+    "timeConvert",
+    "zip",
+    "regionCode",
+    "areaCode"
+  ],
+  "author": "wucepng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wucpeng/wucpeng-tools/issues"
+  },
+  "homepage": "https://github.com/wucpeng/wucpeng-tools#readme",
+  "dependencies": {
+    "month-days": "^2.1.0",
+    "node-uuid": "^1.4.8",
+    "sprintf": "^0.1.5",
+    "underscore": "^1.9.1"
+  }
+}

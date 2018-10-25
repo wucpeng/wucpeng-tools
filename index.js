@@ -1,0 +1,9 @@
+module.exports.holiday = require('./lib/holiday.js');
+module.exports.calendar = require('./lib/calendar.js');
+module.exports.zip = require('./lib/zip.js');
+module.exports.timeConvert = require('./lib/timeConvert.js');
+module.exports.regionCode = require('./lib/regionCode.js');
+module.exports.areaJS = require('./lib/area.js');
+module.exports.passwdCode = require('./lib/passwdCode.js');
+module.exports.rsaMd5Sign = require('./lib/rsaMd5Sign.js');
+module.exports.identificationCheck = require('./lib/identificationCheck.js');
